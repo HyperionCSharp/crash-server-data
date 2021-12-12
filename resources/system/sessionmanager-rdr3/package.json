@@ -1,0 +1,9 @@
+{
+  "name": "sessionmanager-rdr3",
+  "author": "Hyperion",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@citizenfx/protobufjs": "^6.8.8"
+  }
+}

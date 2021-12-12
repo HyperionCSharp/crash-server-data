@@ -1,0 +1,15 @@
+{
+  "name": "webpack-builder",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Hyperion",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^3.2.2",
+    "webpack": "^5.65.0",
+    "worker-farm": "^1.7.0"
+  }
+}
